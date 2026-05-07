@@ -1,0 +1,13 @@
+# Unity recommended line ending normalization
+* text=auto eol=lf
+
+# Binary files — no conversion
+*.png binary
+*.jpg binary
+*.psd binary
+*.fbx binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.dll binary
+*.exe binary
