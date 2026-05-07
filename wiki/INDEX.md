@@ -13,6 +13,7 @@ pages are relevant to the current task before doing any external research.
 | [scripts.md](scripts.md) | PlayerController, CameraController — design, known bugs, fixes applied |
 | [input-system.md](input-system.md) | Unity 6 input system conflict, "Both" setting, how to change it |
 | [known-issues.md](known-issues.md) | Bugs found and their status (fixed / open / workaround) |
+| [session-history/2026-05.md](session-history/2026-05.md) | Per-session changelog (May 2026) |
 
 ## Curation rules
 
